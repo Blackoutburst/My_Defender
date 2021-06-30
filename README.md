@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/My_Defender.svg)](LICENSE)
+
 # My_Defender
 This is a school projet created with @Hrothgor, this project is a tower basic defense created with the CSFML library.
 
